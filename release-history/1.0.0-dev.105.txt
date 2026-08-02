@@ -1,0 +1,3 @@
+tag=v1.0.0-dev.105
+channel=development
+source=AgentCarter1/desktop-tiskort@c38292562374aa07c13daa113821ce24bf2cd0d3
