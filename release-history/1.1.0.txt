@@ -1,3 +1,3 @@
 tag=v1.1.0
 channel=stable
-source=AgentCarter1/desktop-tiskort@fe23ff4fc5484b9d831698bfebddf24bfcf601b8
+source=AgentCarter1/desktop-tiskort@72e3a0d1c103ed38be1a6ed4b85e86639f852bad
