@@ -1,0 +1,3 @@
+tag=v1.1.6
+channel=stable
+source=AgentCarter1/desktop-tiskort@e0d6d236c2f2876f0f18dcc5dcc199489bac5750
