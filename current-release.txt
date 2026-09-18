@@ -1,3 +1,2 @@
-version=1.1.7
-preview=1.1.7-dev.4
-source=AgentCarter1/desktop-tiskort@8dce9105b77e92e9dc826d1e30752f842a5cabda
+version=1.2.0
+source=AgentCarter1/desktop-tiskort@e65d738e9541fec6162dab08a3effe7695ee9918
