@@ -1,2 +1,2 @@
-version=1.2.11
-source=AgentCarter1/desktop-tiskort@6ce5e6236333fc29ed48c40aeb3a0486c6685fa8
+version=1.2.12
+source=AgentCarter1/desktop-tiskort@2754f8ffc7fb1ef10fb276dffc79b00dd6a3a435
